@@ -6,7 +6,8 @@
   "scripts": {
     "test": "mocha test/**",
     "lint": "eslint .",
-    "start": "nodemon app.js"
+    "start": "nodemon app.js",
+    "build": "node app.js"
   },
   "author": "Ibkakshay",
   "license": "ISC",
